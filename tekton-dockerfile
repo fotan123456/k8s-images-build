@@ -1,0 +1,8 @@
+From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/controller:v0.49.0@sha256:cde0654aab99ea19e030eb269f28deba6cc550910586ee7a832cae3ee63ea565
+From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/entrypoint:v0.49.0@sha256:0e43b6ae2d517df85aac356b411fe291057c2f12aef3a949be961cfc1d31c158
+From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/nop:v0.49.0@sha256:91eb79439e756e557259da3c0823f29483863ed6b8a409da664f879279c95d59
+From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/sidecarlogresults:v0.49.0@sha256:4055c213dbb60722432c87b80fb8e52ed6409e6cbb83e62ebb53f0c6d33056f6
+From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/workingdirinit:v0.49.0@sha256:643cf8dbc46fbbfb9f333628c33bbdfb76d11b5005c2aaed28abdc20f739d0b8
+From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/events:v0.49.0@sha256:968999c9f4ba1003725a9455f9a3a2cba36766768e4f1ee40010fafa765f450d
+From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/resolvers:v0.49.0@sha256:78ddd51c8dda6e1e8aa0d3ee65f49f76c9f7bde8235320ae81db2d9ed0e6ce32
+From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/webhook:v0.49.0@sha256:df3be59025cc59dbcc639710a77f922f07b778de49616b59bb5343fbf7cc8b79
